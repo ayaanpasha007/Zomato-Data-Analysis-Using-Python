@@ -95,7 +95,7 @@ The dataset contains information about restaurants including:
 ### Restaurant Popularity
 ![Restaurant Popularity](images/restaurant_popularity.png)
 
-> Note: Update image paths according to your repository structure.
+
 
 ---
 
@@ -180,8 +180,8 @@ Data Analyst Aspirant | Python | SQL | Excel | Power BI
 
 ### Connect With Me
 
-- LinkedIn: Add Your LinkedIn Profile Link
-- GitHub: Add Your GitHub Profile Link
+- LinkedIn: https://www.linkedin.com/in/ayaan-pasha-6278bb29b/
+- GitHub: https://github.com/ayaanpasha007?tab=repositories
 
 ---
 
