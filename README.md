@@ -146,7 +146,6 @@ Jupyter Notebook Development
 Ayaan Pasha
 Data Analyst Aspirant | Python · SQL · Excel · Power BI
 
-LinkedIn GitHub
 
 Made with ❤️ using Python & Jupyter Notebook
 
