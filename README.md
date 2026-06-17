@@ -141,7 +141,7 @@ Jupyter Notebook Development
  Machine Learning model to predict restaurant ratings
  Customer segmentation using clustering algorithms
  Sentiment analysis on customer reviews
- Integration with live Zomato API data
+ Integration with live Zomato API data   
 👨‍💻 Author
 Ayaan Pasha
 Data Analyst Aspirant | Python · SQL · Excel · Power BI
