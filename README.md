@@ -84,20 +84,7 @@ The dataset contains information about restaurants including:
 
 ---
 
-## 📸 Sample Visualizations
 
-### Rating Distribution
-![Rating Distribution](images/rating_distribution.png)
-
-### Online Order Analysis
-![Online Orders](images/online_order_analysis.png)
-
-### Restaurant Popularity
-![Restaurant Popularity](images/restaurant_popularity.png)
-
-
-
----
 
 ## 📁 Project Structure
 
